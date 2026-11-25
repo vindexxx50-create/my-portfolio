@@ -1,14 +1,14 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f1f5f9;
-    color: #0f172a;
+    background-color: #0f172a;
+    color: #f8fafc;
     padding: 40px;
-  }
-  .card {
+    }
+    .card {
     max-width: 600px;
     margin: 0 auto;
-    background-color: #ffffff;
-    border: 2px solid #cbd5e1;
+    background-color: #1e293b;
+    border: 2px solid #38bdf8;
     padding: 24px;
     border-radius: 10px;
-  }
+    }
